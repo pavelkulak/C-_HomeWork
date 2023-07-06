@@ -1,0 +1,15 @@
+/home/pavel/Рабочий стол/C#_HomeWork/task6/obj/Debug/net7.0/task6.csproj.AssemblyReference.cache
+/home/pavel/Рабочий стол/C#_HomeWork/task6/obj/Debug/net7.0/task6.GeneratedMSBuildEditorConfig.editorconfig
+/home/pavel/Рабочий стол/C#_HomeWork/task6/obj/Debug/net7.0/task6.AssemblyInfoInputs.cache
+/home/pavel/Рабочий стол/C#_HomeWork/task6/obj/Debug/net7.0/task6.AssemblyInfo.cs
+/home/pavel/Рабочий стол/C#_HomeWork/task6/obj/Debug/net7.0/task6.csproj.CoreCompileInputs.cache
+/home/pavel/Рабочий стол/C#_HomeWork/task6/bin/Debug/net7.0/task6
+/home/pavel/Рабочий стол/C#_HomeWork/task6/bin/Debug/net7.0/task6.deps.json
+/home/pavel/Рабочий стол/C#_HomeWork/task6/bin/Debug/net7.0/task6.runtimeconfig.json
+/home/pavel/Рабочий стол/C#_HomeWork/task6/bin/Debug/net7.0/task6.dll
+/home/pavel/Рабочий стол/C#_HomeWork/task6/bin/Debug/net7.0/task6.pdb
+/home/pavel/Рабочий стол/C#_HomeWork/task6/obj/Debug/net7.0/task6.dll
+/home/pavel/Рабочий стол/C#_HomeWork/task6/obj/Debug/net7.0/refint/task6.dll
+/home/pavel/Рабочий стол/C#_HomeWork/task6/obj/Debug/net7.0/task6.pdb
+/home/pavel/Рабочий стол/C#_HomeWork/task6/obj/Debug/net7.0/task6.genruntimeconfig.cache
+/home/pavel/Рабочий стол/C#_HomeWork/task6/obj/Debug/net7.0/ref/task6.dll
